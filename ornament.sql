@@ -44,8 +44,8 @@ CREATE TABLE IF NOT EXISTS `auth` (
 --
 
 INSERT INTO `auth` (`id`, `user_name`, `user_email`, `password`, `role`, `is_active`, `d_o_c`) VALUES
-(1, 'admin', 'pariharvikram1989@gmail.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'admin', 1, '2014-08-01'),
-(2, 'vikram', 'vikram@vikram.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'regular', 0, '2014-09-05');
+(1, 'admin', 'jmrashed@gmail.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'admin', 1, '2014-08-01'),
+(2, 'staff', 'jmrashedbd@gmail.com', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'regular', 0, '2014-09-05');
 
 -- --------------------------------------------------------
 
